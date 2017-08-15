@@ -39,7 +39,7 @@ My implementation of MPC Project for Self-Driving Car Engineer Nanodegree Progra
 1. Clone this repo.
 2. Make a build directory: `mkdir build && cd build`
 3. Compile: `cmake .. && make`
-4. Run it: `./mpc`.
+4. Run it: `./mpc`
 
 ## Tips
 
